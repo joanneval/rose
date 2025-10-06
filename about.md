@@ -5,6 +5,7 @@
 # Email
 
 - evalroseann@gmail.com
+  - evaljoann63@gmail.com 
 
 # birthday
-  - november 12, 2005
+    - november 12, 2005
