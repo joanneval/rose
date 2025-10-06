@@ -5,3 +5,6 @@
 # Email
 
 - evalroseann@gmail.com
+
+# birthday
+- november 12, 2005
